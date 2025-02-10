@@ -5,7 +5,7 @@ I’m a Frontend Developer with a passion for Backend technologies, focused on c
 ---
 
 ### 🚀 Bio
-- 🌐 Full Stack Developer specialized in **React**, **Nord.js**, **Angular**, **JavaScript**, **Bootstrap**, and **PHP**.
+- 🌐 Full Stack Developer specialized in **React**, **Nord.js**, **Next.js**, **Angular**, **JavaScript**, **Bootstrap**, and **PHP**.
 - 📬 Reach me at: **adarshamg97@outlook.com**
 - 👀 I’m currently exploring work opportunities and open to collaborating on exciting projects.
 
