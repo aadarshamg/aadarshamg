@@ -12,6 +12,7 @@ I’m a Frontend Developer with a passion for Backend technologies, focused on c
 ---
 
 ### 💻 Tech Stack
+![JAVA](https://img.shields.io/badge/JAVA-purple)
 ![REACT](https://img.shields.io/badge/REACT-GREEN)
 ![NORD.JS](https://img.shields.io/badge/NORD.JS-blue)
 ![ANGULAR](https://img.shields.io/badge/ANGULAR-red)
