@@ -59,18 +59,6 @@ I'm a Full Stack Developer with hands-on experience building web apps, mobile ap
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aadarshamg&theme=tokyonight&hide_border=true&background=0D1117&stroke=0891b2&ring=0891b2&fire=FF6B6B&currStreakLabel=0891b2)](https://git.io/streak-stats)
-
-![Adarsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aadarshamg&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0891b2&icon_color=0891b2&text_color=c9d1d9)
-
-</div>
-
----
-
 ## What I'm Working On
 
 | Project | Stack | Status |
