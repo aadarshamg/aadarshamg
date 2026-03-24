@@ -1,10 +1,10 @@
-# 👋 Hi! I'm Adarsh
+# Hi! I'm Adarsh
 
 I’m a Frontend Developer with a passion for Backend technologies, focused on creating smooth, user-friendly applications. Always learning and improving, I stay updated on the latest tools and trends. Let’s build something great together!
 
 ---
 
-### 🚀 Bio
+### Bio
 - 🌐 Full Stack Developer specialized in **React**, **Nord.js**, **Next.js**, **Angular**, **JavaScript**, **Bootstrap**, and **PHP**.
 - 📬 Reach me at: **adarshamg97@outlook.com**
 - 👀 I’m currently exploring work opportunities and open to collaborating on exciting projects.
