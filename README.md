@@ -18,7 +18,7 @@
 
 I'm a Full Stack Developer with hands-on experience building web apps, mobile apps, and e-commerce platforms, both for clients and my own ventures. I care about writing clean, maintainable code and shipping things that actually work.
 
-- 🏗️ Currently building **[FOD Holidays](https://github.com/aadarshamg)**, a travel booking platform (React + Vite + Supabase + Razorpay)
+- 🏗️ Currently building **[FOD Holidays](https://fodholidays.com)**, a travel booking platform (React + Vite + Supabase + Razorpay)
 - 🧩 Freelancing across industries: fintech, healthcare, travel, and e-commerce
 - 🔧 Growing my backend depth alongside frontend expertise
 - 📍 Based in Pune, India
@@ -56,7 +56,6 @@ I'm a Full Stack Developer with hands-on experience building web apps, mobile ap
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)
-
 
 ---
 
