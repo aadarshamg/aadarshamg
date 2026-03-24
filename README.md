@@ -4,7 +4,7 @@
 
 **Full Stack Developer · Startup Builder · Always Shipping**
 
-*I turn ideas into products — from pixel-perfect frontends to scalable backends.*
+*I turn ideas into products, from pixel-perfect frontends to scalable backends.*
 
 [![Email](https://img.shields.io/badge/adarshamg97%40outlook.com-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:adarshamg97@outlook.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/adarsh97)
@@ -72,7 +72,7 @@ I'm a Full Stack Developer with hands-on experience building web apps, mobile ap
 
 | Project | Stack | Status |
 |---|---|---|
-| FOD Holidays — Travel booking platform | React, Vite, Supabase, Razorpay | 🚧 Active |
+| FOD Holidays: Travel booking platform | React, Vite, Supabase, Razorpay | 🚧 Active |
 | Admin CMS + Itinerary Builder | React, Tailwind, PDF rendering | 🚧 Active |
 | Dermatology Practice Website | WordPress, Local SEO | ✅ Shipped |
 | Personal Finance Platform (Client) | React, Next.js | ✅ Shipped |
