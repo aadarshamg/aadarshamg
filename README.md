@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Adarsh 👋
+# Hey, I'm Adarsh👋
 
 **Full Stack Developer · Startup Builder · Always Shipping**
 
